@@ -1,0 +1,10 @@
+.idea/
+
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+
+*.log
+.env
